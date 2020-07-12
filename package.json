@@ -1,0 +1,26 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "Index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "jest": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyrice98/Team-Profile-Generator.git"
+  },
+  "author": "Jeremy Rice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyrice98/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/jeremyrice98/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.1",
+    "jest": "^26.1.0"
+  }
+}

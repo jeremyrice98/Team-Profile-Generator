@@ -18,6 +18,7 @@
 ## **APPLICATION LINKS**   
 > [Live Application](https://jeremyrice98.github.io/Team-Profile-Generator/)  
 > [GitHub Repository](https://github.com/jeremyrice98/Team-Profile-Generator)  
+> [Demonstration Video](https://drive.google.com/file/d/1yHPoWkL82nG3xjRPW12tcOHQlSUBp3x2/view)
   
 ## **INSTALLATION**   
 Npm, Inquirer, and Jest
